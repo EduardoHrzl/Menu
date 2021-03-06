@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Eduardo Hernandez Lara 
+//2022822
 package Logeo;
 
-/**
- *
- * @author nemes
- */
+
 public class Menu extends javax.swing.JFrame {
 
 
